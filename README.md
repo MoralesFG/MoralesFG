@@ -26,6 +26,9 @@ Soy Fran Morales, <b>programador y desarrollador web junior</b>. Siempre me ha a
 
 ### Perfil Intra42
 [![framoral's 42 stats](https://badge.mediaplus.ma/darkblue/framoral)](https://github.com/oakoudad/badge42)
+                                                                                                                      
+### Github Stats
+
 
 
 <!--
