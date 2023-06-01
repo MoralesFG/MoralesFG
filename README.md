@@ -28,7 +28,7 @@ Soy Fran Morales, <b>programador y desarrollador web junior</b>. Siempre me ha a
 [![framoral's 42 stats](https://badge.mediaplus.ma/darkblue/framoral)](https://github.com/oakoudad/badge42)
                                                                                                                       
 ### Github Stats
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoralesFG&layout=compact&theme=white&hide_border=false)
 
 
 <!--
