@@ -1,7 +1,13 @@
-## Sobre mi! 💬
-Soy Fran Morales, <b>programador y desarrollador web junior</b>. Siempre me ha apasionado del mundo digital la creación de contenido, el diseño web y la experiencia de usuario, por eso, actualmente estoy realizando un máster de Desarrollo Web Frontend. A parte de esto, realicé un Bootcamp de programación en Fundación Telefónica y ahora soy estudiante en el campus de 42.  
+## About me! 💬
+As a ***junior web designer***, I am passionate about digital experiences that are both visually appealing and user-friendly. 
+Alongside my expertise in UX/UI design, I have actively engaged in real projects that have honed my skills. 
 
-### Lenguajes y Frameworks 🖥️
+The nature of the web industry pushes me to continue applying my time in daily courses to expand my knowledge further, therefore I'm learning Javascript and React.
+
+Let's go code!
+
+
+### Languages and Frameworks 🖥️
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
@@ -14,7 +20,7 @@ Soy Fran Morales, <b>programador y desarrollador web junior</b>. Siempre me ha a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
-### Herramientas y Software 👨‍💻
+### Tools and Software 👨‍💻
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" width="40" height="40"/></a>
@@ -25,7 +31,7 @@ Soy Fran Morales, <b>programador y desarrollador web junior</b>. Siempre me ha a
 </p>
 
 
-### Perfil Intra42
+### Profile Intra42
 [![framoral's 42 stats](https://badge.mediaplus.ma/darkblue/framoral)](https://github.com/oakoudad/badge42)
                                                                                                                       
 ### Github Stats
